@@ -109,6 +109,10 @@ iframe, embed, object {
 	border:none;
 }
 
+.section-img{
+	display: initial!important
+}
+
 .video-container,.map-container,.embed-container 	{ position:relative; margin:0 0 15px 0;	padding-bottom:51%; padding-top:30px; height:0; overflow:hidden; border:1px solid #ccc; }
 .video-container iframe,
 .embed-container iframe,
